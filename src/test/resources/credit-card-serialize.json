@@ -1,0 +1,9 @@
+{
+  "name": "The credit card",
+  "status": "ACTIVE",
+  "balance": {
+    "id": 1,
+    "value": 1000.0
+  },
+  "rate": 5.0
+}
