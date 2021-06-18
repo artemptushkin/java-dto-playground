@@ -1,4 +1,4 @@
-package io.github.artemptushkin.example;
+package io.github.artemptushkin.example.inheritance;
 
 import lombok.RequiredArgsConstructor;
 import lombok.Value;

@@ -1,4 +1,4 @@
-package io.github.artemptushkin.example;
+package io.github.artemptushkin.example.inheritance;
 
 import java.beans.ConstructorProperties;
 import java.math.BigDecimal;

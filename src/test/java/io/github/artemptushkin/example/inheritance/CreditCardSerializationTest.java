@@ -1,4 +1,4 @@
-package io.github.artemptushkin.example;
+package io.github.artemptushkin.example.inheritance;
 
 import java.math.BigDecimal;
 
@@ -7,7 +7,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.skyscreamer.jsonassert.JSONAssert;
 
-import static io.github.artemptushkin.example.Status.ACTIVE;
+import static io.github.artemptushkin.example.inheritance.Status.ACTIVE;
 import static io.github.artemptushkin.test.util.TestHelper.readFromFile;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;

@@ -1,4 +1,4 @@
-package io.github.artemptushkin.example;
+package io.github.artemptushkin.example.compositefield;
 
 import lombok.Builder;
 import lombok.Value;
