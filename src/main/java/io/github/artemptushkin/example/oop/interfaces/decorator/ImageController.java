@@ -1,4 +1,4 @@
-package io.github.artemptushkin.example.service.decorator;
+package io.github.artemptushkin.example.oop.interfaces.decorator;
 
 import lombok.RequiredArgsConstructor;
 
