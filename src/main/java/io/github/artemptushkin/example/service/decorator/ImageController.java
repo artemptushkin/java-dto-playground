@@ -4,9 +4,9 @@ import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
 public class ImageController {
-	private final ImageService imageService;
+	private final ImageService imageServiceImpl;
 
 	public MyImage getMyImage() {
-		return imageService.getImage();
+		return imageServiceImpl.getImage();
 	}
 }
